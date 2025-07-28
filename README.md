@@ -27,16 +27,17 @@ Welcome to my GitHub profile! I'm passionate about building real-world software 
 Here are a few projects I've worked on:
 - 💬 **Chatbot using AI with Python**
 - 🧠 **Brain Tumor Classification using CNN**
-- 🛒 **Mini E-commerce Website using HTML/CSS**
+- 👗 **Fashion Accessories Classification using CNN**
 - 📄 **Salesforce Custom App for Task Automation**
+- 📅 **Event Management System (Salesforce)**
 
 > *(More projects coming soon!)*
 
 ---
 
 ### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-link) *(add your real LinkedIn link)*
-- 📧 Email: yourname@example.com *(optional)*
+- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/kundum-jgnaneswari-manikyamba-29bb7b302/)) *(add your real LinkedIn link)*
+- 📧 Email: jgnaneswari07@gmail.com *(optional)*
 - 🌍 Portfolio: Coming Soon...
 
 ---
